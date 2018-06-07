@@ -1,5 +1,5 @@
 # ProjectHaloCAD
-This is the official repository of the Thanics Halo open-source project. This is a project powered by the Raspberry Pi Compute Module 3, both the drone and controller use this module, along with several coprocessors. This project is not complete yet and all documaentation has not been uploaded, but feel free to follow along with our progress or use any of our 3D parts or software, as long as you attribute us.
+This is the official repository of the Thanics Halo open-source project. This is a project powered by the Raspberry Pi Compute Module 3, both the drone and controller use this module, along with several coprocessors. This project is not complete yet and all documentation has not been uploaded, but feel free to follow along with our progress or use any of our 3D parts or software, as long as you attribute us.
 ## Background
 ### The Drone
 The Thanics Halo drone utilizes stereo camera vision and ultrasonic sensors to accomplish spherical obstacle avoidance. The Halo drone is built to be versatile with a variety of cameras of different imaging types. The project focuses primarily on 360 (spherical) imaging and spherical video live streaming.
